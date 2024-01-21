@@ -1,7 +1,7 @@
 ![logo](https://github.com/Nishu026/Nishu026/blob/main/Purple%20Modern%20Gaming%20Youtube%20Banner.png)
 <h1 align="center">Hi 👋, I'm Nishigandha Patil</h1>
 <h3 align="center">A passionate Web Developer from India</h3>
-<img align="right" src="https://startcoding.co.in/wp-content/uploads/2021/12/coding-for-kids.gif" width="400" alt="coding">
+<img align="right" src="https://startcoding.co.in/wp-content/uploads/2021/12/coding-for-kids.gif" width="400" height="250" alt="coding">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nishu026&label=Profile%20views&color=0e75b6&style=flat" alt="nishu026" /> </p>
 
