@@ -1,4 +1,4 @@
-![logo](https://github.com/Nishu026/Nishu026/blob/main/Purple%20Modern%20Gaming%20Youtube%20Banner.png)
+![logo](https://github.com/Nishu026/Nishu026/blob/main/mybanner.png)
 <h1 align="center">Hi 👋, I'm Nishigandha Patil</h1>
 <h3 align="center">A passionate Web Developer from India</h3>
 <img align="right" src="https://startcoding.co.in/wp-content/uploads/2021/12/coding-for-kids.gif" width="400" height="250" alt="coding">
