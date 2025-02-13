@@ -9,7 +9,6 @@
 
 - 📫 How to reach me **pmnishu.2000@gmail.com**
 
-- ⚡ Fun fact **I enjoy Sketching in my free time.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
